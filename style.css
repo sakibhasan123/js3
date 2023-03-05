@@ -1,0 +1,21 @@
+h1{
+    text-align: center;
+    background-color: red;
+    color: whitesmoke;
+    width: auto;
+    height: auto;
+}
+h2{
+    text-align: center;
+    background-color: pink;
+    color: whitesmoke;
+    width: auto;
+    height: auto;
+}
+pre{
+    text-align: center;
+    background-color: lime;
+    color: whitesmoke;
+    width: auto;
+    height: auto;
+}
